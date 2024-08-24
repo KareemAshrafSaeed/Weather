@@ -13,5 +13,13 @@ npm install
 npm start
 ```
 
+## API Documentation
+Once the application is running, you can access the API documentation at:
+```bash
+http://localhost:3000/api-docs
+```
+
+
+
 
 
